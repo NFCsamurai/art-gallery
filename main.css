@@ -156,6 +156,15 @@ a:link, a:visited { color: #fff; text-decoration: none; }
 .Newpost {
     border-radius: 16px;
     text-align: center;
-    font-size: 2rem;
+    font-size: 4rem;
     margin: 1rem auto;
+    color: #fff;
+  text-shadow:
+    0 0 7px #fff,
+    0 0 42px #1595c7,
+    0 0 82px #1595c7,
+    0 0 92px #1595c7,
+    0 0 102px #1595c7,
+    0 0 151px #1595c7;
 }
+
